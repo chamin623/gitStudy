@@ -1,3 +1,5 @@
 stage에 올라가서 tracked되고 있지만 내용을 수정했다->unstage
 
 test.txt을 수정했어요.
+
+test.txt 다시 수정.
